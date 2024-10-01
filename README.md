@@ -22,8 +22,9 @@
          <br><br><br>
        📝 Software developer, proactive and self-taught.
          <br><br><br>  
-       💻 Learning daily about the world of programming and software engineering
-         <br><br><br> 
+       💻 Learning daily about the world of programming and software engineering.
+         <br><br><br>
+       🤞 Dreaming of helping people through coding and software development.
        🎮 I really like playing video games.
          <br><br><br> 
        📫 Contact :
