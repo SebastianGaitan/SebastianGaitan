@@ -25,6 +25,7 @@
        💻 Learning daily about the world of programming and software engineering.
          <br><br><br>
        🤞 Dreaming of helping people through coding and software development.
+         <br><br><br>
        🎮 I really like playing video games.
          <br><br><br> 
        📫 Contact :
