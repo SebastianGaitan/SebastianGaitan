@@ -17,8 +17,7 @@
      <div>
      <img align="left"  width = 45%    src = Assets/OctaCat-2.png >
      <p align = "left">
-         <br>
-       🎓 Software Engineering Student ( Finishing my thesis )
+        🎓 Software Engineering Student ( Finishing my thesis )
          <br><br><br>
        📝 Software developer, proactive and self-taught.
          <br><br><br>  
