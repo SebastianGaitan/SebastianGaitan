@@ -13,20 +13,20 @@
 
 
  <div>
-   <h1 align = "center"> Sobre mi 📖 </h1>
+   <h1 align = "center"> About Me! 📖 </h1>
      <div>
      <img align="left"  width = 45%    src = Assets/OctaCat-2.png >
      <p align = "left">
          <br><br><br> 
-       🎓 Estudiante de Ingenieria de Sistemas ( Terminando mi Tesis )
+       🎓 Software Engineering Student ( Finishing my thesis )
          <br><br><br>
-       📝 Desarrollador de software, proactivo y autodidacta.
+       📝 Software developer, proactive and self-taught.
          <br><br><br>  
-       💻 Aprendiendo diariamente sobre el mundo de la progrmacion.
+       💻 Learning daily about the world of programming and software engineering
          <br><br><br> 
-       🎮 Me gusta mucho jugar video juegos.
+       🎮 I really like playing video games.
          <br><br><br> 
-       📫 Contacto :
+       📫 Contact :
      </p>
   </div>
  </div>
