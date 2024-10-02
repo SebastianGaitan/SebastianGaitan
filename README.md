@@ -14,9 +14,10 @@
    <h1 align = "center"> About Me! 📖 </h1>
      <div>
      <img align="left" width=50%   src = Assets/OctaCat-2.png >
+       <br><br><br>
      <div>
       <ul align="left" >
-        <br><br><br><br>
+        <br>
         <li>🎓 Software Engineering Student (Finishing my thesis)</li>
         <br><br>
         <li>💻 Learning daily about the world of programming and software engineering.</li>
@@ -29,4 +30,53 @@
   </div>
  </div>
 
-<br><br>
+<br><br><br><br>
+
+<div>
+  <h1 align = center> My Tech Stack 🔥</h1> 
+</div>
+
+<div>
+  <h1 align = Left> BackEnd 🐍 </h1> 
+  <p align="left">
+    <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
+  </a>
+</p>
+</div>
+
+<div>
+  <h1 align = Left> FrontEnd 🎨 </h1> 
+  <p align="left">
+    <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,html,css&theme=dark&perline=2"/>
+  </a>
+</p>
+</div>
+
+<div>
+  <h1 align = Left> DataBase 💾 </h1> 
+  <p align="left">
+    <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+  </a>
+</p>
+</div>
+
+<div>
+  <h1 align = Left> Tools & Software 🛠️ </h1> 
+  <p align="left">
+    <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,postman,git,github,idea,vscode,eclipse,photoshop,figma,obsidian&theme=dark&perline=5"/>
+  </a>
+</p>
+</div>
+
+
+
+
+
