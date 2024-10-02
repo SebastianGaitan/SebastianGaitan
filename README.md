@@ -13,16 +13,16 @@
  <div>
    <h1 align = "center"> About Me! 📖 </h1>
      <div>
-     <img align="left"  style="width: 40vw"  src = Assets/OctaCat-2.png >
+     <img align="left" width=50%   src = Assets/OctaCat-2.png >
      <div>
-      <ul align="left" style="width: 80vw">
-        <br><br><br>
+      <ul align="left" >
+        <br><br><br><br>
         <li>🎓 Software Engineering Student (Finishing my thesis)</li>
-        <br>
+        <br><br>
         <li>💻 Learning daily about the world of programming and software engineering.</li>
-        <br>
+        <br><br>
         <li>🤞 Dreaming of helping people through coding and software   development.</li>
-        <br>
+        <br><br>
         <li>🎮 I really like playing video games.</li>       
       </ul>
      </div>     
